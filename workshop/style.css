@@ -1,0 +1,17 @@
+/*
+Theme Name: workshop
+Theme URI: https://workshop.io
+Author: Kriss
+Author URI: https://github.com/
+Description: Le theme du workshop de nos amis becodien
+Version: 1.0
+*/
+
+.menu {
+    position: fixed;
+    top: 0px;
+}
+
+.admin-bar .menu {
+    top: 32px;
+}
